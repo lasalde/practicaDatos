@@ -1,0 +1,168 @@
+<series>
+<serie>
+<Nombre>
+  Población ocupada. 16-24 años. 
+</Nombre>
+<Codigo>
+  3.5.4 
+</Codigo>
+<Fuente>
+  Eustat 
+</Fuente>
+<Unidad>
+  Miles de personas 
+</Unidad>
+<Tipo>
+  2 
+</Tipo>
+<valores>
+<datosvalor>
+<Año>
+  2017 
+</Año>
+<periodo>
+  I 
+</periodo>
+<ValorEntidad>
+<Entidad>
+  Euskadi 
+</Entidad>
+<Valor>
+  32.2 
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+  2017 
+</Año>
+<periodo>
+  II 
+</periodo>
+<ValorEntidad>
+<Entidad>
+  Euskadi 
+</Entidad>
+<Valor>
+  34.8 
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+  2017 
+</Año>
+<periodo>
+  III 
+</periodo>
+<ValorEntidad>
+<Entidad>
+  Euskadi 
+</Entidad>
+<Valor>
+  31.5 
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+  2017 
+</Año>
+<periodo>
+  IV 
+</periodo>
+<ValorEntidad>
+<Entidad>
+  Euskadi 
+</Entidad>
+<Valor>
+  29.3 
+</Valor>
+</ValorEntidad>
+</datosvalor>
+</valores>
+</serie>
+<serie>
+<Nombre>
+  Población ocupada. 45 y más años. 
+</Nombre>
+<Codigo>
+  3.5.6 
+</Codigo>
+<Fuente>
+  Eustat 
+</Fuente>
+<Unidad>
+  Miles de personas 
+</Unidad>
+<Tipo>
+  2 
+</Tipo>
+<valores>
+<datosvalor>
+<Año>
+  2017 
+</Año>
+<periodo>
+  I 
+</periodo>
+<ValorEntidad>
+<Entidad>
+  Euskadi 
+</Entidad>
+<Valor>
+  432.0 
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+  2017 
+</Año>
+<periodo>
+  II 
+</periodo>
+<ValorEntidad>
+<Entidad>
+  Euskadi 
+</Entidad>
+<Valor>
+  443.1 
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+  2017 
+</Año>
+<periodo>
+  III 
+</periodo>
+<ValorEntidad>
+<Entidad>
+  Euskadi 
+</Entidad>
+<Valor>
+  445.4 
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+  2017 
+</Año>
+<periodo>
+  IV 
+</periodo>
+<ValorEntidad>
+<Entidad>
+  Euskadi 
+</Entidad>
+<Valor>
+  449.2 
+</Valor>
+</ValorEntidad>
+</datosvalor>
+</valores>
+</serie>
+</series>
