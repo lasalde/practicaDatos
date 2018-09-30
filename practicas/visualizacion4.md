@@ -1,7 +1,6 @@
 Se van a leer el ranking de empresas de españa y se van a graficar en un gráfico de Bar Chart.
 
-Los datos provienen de la hoja [ranking]
-(file:///C:/Users/Lasalde/Documents/Ingenieria%20Tecnun/3%20A%C3%91O/Estad%C3%ADstica%20Industrial/final/ranking.html)
+Los datos provienen de la hoja [ranking](file:///C:/Users/Lasalde/Documents/Ingenieria%20Tecnun/3%20A%C3%91O/Estad%C3%ADstica%20Industrial/final/ranking.html)
 
 Se van a obtener con WebScraping mediante la función leerEmpresas() del [final](../geocoordenadas/final.js)
 
