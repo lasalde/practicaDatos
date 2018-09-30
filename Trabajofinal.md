@@ -2,7 +2,7 @@ Se van a leer las coordenadas de una lista de poblaciones y se van a graficar en
 
 Los datos provienen de la hoja [ranking](file:///C:/Users/Lasalde/Documents/Ingenieria%20Tecnun/3%20A%C3%91O/Estad%C3%ADstica%20Industrial/final/ranking.html)
 
-Se van a obtener con WebScraping mediante la función leerEmpresas() del [final](../geocoordenadas/final.json)
+Se van a obtener con WebScraping mediante la función leerEmpresas() del [final](../geocoordenadas/final.js)
 
 Los datos obtenidos se guardan como JSON en un fichero de nombre [trabajofinal.js](../geocoordenadas/trabajofinal.js). Para poder usar directamente el array en una variable, añadir por delante de dicho array el texto: "obj="
 
